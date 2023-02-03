@@ -1,0 +1,15 @@
+C:\Users\Feride\Новая папка (14)\bin\Debug\net6.0\Новая папка (14).exe
+C:\Users\Feride\Новая папка (14)\bin\Debug\net6.0\Новая папка (14).deps.json
+C:\Users\Feride\Новая папка (14)\bin\Debug\net6.0\Новая папка (14).runtimeconfig.json
+C:\Users\Feride\Новая папка (14)\bin\Debug\net6.0\Новая папка (14).dll
+C:\Users\Feride\Новая папка (14)\bin\Debug\net6.0\Новая папка (14).pdb
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\Новая папка (14).csproj.AssemblyReference.cache
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\Новая папка (14).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\Новая папка (14).AssemblyInfoInputs.cache
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\Новая папка (14).AssemblyInfo.cs
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\Новая папка (14).csproj.CoreCompileInputs.cache
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\Новая папка (14).dll
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\refint\Новая папка (14).dll
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\Новая папка (14).pdb
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\Новая папка (14).genruntimeconfig.cache
+C:\Users\Feride\Новая папка (14)\obj\Debug\net6.0\ref\Новая папка (14).dll
